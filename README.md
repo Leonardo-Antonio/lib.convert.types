@@ -2,6 +2,11 @@
 
 manera de convertir tipos de dato mas sencilla que el reflect
 
+- Install
+```shell
+go get github.com/Leonardo-Antonio/lib.convert.types
+```
+
 - Ejemplo: 
 
 
